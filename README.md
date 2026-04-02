@@ -1,7 +1,7 @@
 # Structured CLI
 
 [![Build](https://img.shields.io/badge/build-passing-66cc33?style=for-the-badge)](./cli_anything/structured/tests)
-[![Release](https://img.shields.io/badge/release-v0.1.0-3b82f6?style=for-the-badge)](https://github.com/Alvin0412/structured-cli/releases)
+[![Release](https://img.shields.io/github/v/release/Alvin0412/structured-cli?display_name=tag&style=for-the-badge)](https://github.com/Alvin0412/structured-cli/releases/latest)
 [![Access](https://img.shields.io/badge/access-public-4f46e5?style=for-the-badge)](https://github.com/Alvin0412/structured-cli)
 [![License](https://img.shields.io/badge/license-MIT-2563eb?style=for-the-badge)](./LICENSE)
 
@@ -47,7 +47,7 @@ structured-mcp
 ## Repository Layout
 
 ```text
-agent-harness/
+structured-cli/
 ├── README.md                              # repo entrypoint
 ├── STRUCTURED.md                          # backend notes and guardrails
 ├── setup.py                               # package metadata + console entry points
