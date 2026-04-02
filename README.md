@@ -1,8 +1,8 @@
-# Structured Agent Harness
+# Structured CLI
 
 [![Build](https://img.shields.io/badge/build-passing-66cc33?style=for-the-badge)](./cli_anything/structured/tests)
-[![Release](https://img.shields.io/badge/release-v0.1.0-3b82f6?style=for-the-badge)](./setup.py)
-[![Access](https://img.shields.io/badge/access-public-4f46e5?style=for-the-badge)](https://github.com/Alvin0412/structured-agent-harness)
+[![Release](https://img.shields.io/badge/release-v0.1.0-3b82f6?style=for-the-badge)](https://github.com/Alvin0412/structured-cli/releases)
+[![Access](https://img.shields.io/badge/access-public-4f46e5?style=for-the-badge)](https://github.com/Alvin0412/structured-cli)
 [![License](https://img.shields.io/badge/license-MIT-2563eb?style=for-the-badge)](./LICENSE)
 
 Browser-backed CLI and MCP adapter for `https://web.structured.app/`.
